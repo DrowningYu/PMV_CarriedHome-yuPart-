@@ -1,0 +1,56 @@
+Report created: 
+	2026/6/4	9:58:00
+
+Project name: PMV_CarriedHome.aep
+
+Source files collected to: 
+	D:\Pony\PMV\carriedHome\PMV_CarriedHome folder
+
+Source files collected: All
+
+Collected comps:  
+	main
+	myPart
+	prePart
+	lyric
+	refMain
+	lyricMyPart
+	p01
+	p01FSOnTheGround
+	p02WithSongsOfRiverFlow
+	p03GreyShoreline
+	
+Number of collected files:  16
+
+Size of collected files:  628 MB
+
+Collected source files: 
+	D:\Pony\PMV\PMV_CarriedHome\bgm\1_Carried Home - Marcus Warner,Kaitlin Ross,Tom Campbell-Paine_(Instrumental).wav
+	D:\Pony\PMV\PMV_CarriedHome\bgm\1_Carried Home - Marcus Warner,Kaitlin Ross,Tom Campbell-Paine_(Vocals).wav
+	D:\Pony\PMV\PMV_CarriedHome\bgm\Carried Home - Marcus Warner,Kaitlin Ross,Tom Campbell-Paine.mp3
+	D:\Pony\PMV\PMV_CarriedHome\bgm\P10.wav
+	D:\Pony\PMV\PMV_CarriedHome\bgm\P9.wav
+	D:\Pony\PMV\PMV_CarriedHome\p01\ref\09.mp4
+	D:\Pony\PMV\PMV_CarriedHome\p01\ref\fsBack.png
+	D:\Pony\PMV\PMV_CarriedHome\p02\ref\01.mp4
+	D:\Pony\PMV\PMV_CarriedHome\p02\ref\04.mp4
+	D:\Pony\PMV\PMV_CarriedHome\p02\ref\05.mp4
+	D:\Pony\PMV\PMV_CarriedHome\p03\ref\2024-11-02 19-19-43.mp4
+	D:\Pony\PMV\PMV_CarriedHome\ref\717966935_nb2-1-16.mp4
+	D:\Pony\PMV\PMV_CarriedHome\ref\Carried Home Part6 V1.0 (1).mp4
+	D:\Pony\PMV\PMV_CarriedHome\ref\CarriedHomeP4.mp4
+	D:\Pony\PMV\PMV_CarriedHome\ref\【PMV】Unfinished.mp4
+	D:\Pony\PMV\PMV_CarriedHome\ref\原片（是.mp4
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  1
+
+Effect:  Black & White
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “SimSun”, Font style: “Regular”
+
